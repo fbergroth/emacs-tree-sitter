@@ -416,3 +416,6 @@ The language-bundle package ~tree-sitter-langs~ provides highlighting queries fo
 *** Main Package tree-sitter
 *** Grammar Bundle tree-sitter-langs
 ** Creating a Language Grammar
+* Development Notes
+# TODO: Write this section, but put it in README.md instead.
+For working on ~tree-sitter~ and ~tree-sitter-langs~ packages.
